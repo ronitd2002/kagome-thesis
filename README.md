@@ -1,4 +1,4 @@
-# Simulating the Kagome geometry for antiferromagnetic Heisenberg model and probing the ground states of the same using variational quantum algorithm
+# Heisenberg lattice energy estimation in kagome symmetry
 
 ---
 
