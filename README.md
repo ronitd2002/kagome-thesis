@@ -1,4 +1,4 @@
-# Heisenberg lattice energy estimation in kagome symmetry
+# GS energy estimation for heisenberg lattice in kagome geometry
 
 ---
 
